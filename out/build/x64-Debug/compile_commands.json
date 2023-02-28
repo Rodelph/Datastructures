@@ -1,0 +1,32 @@
+[
+{
+  "directory": "C:/Users/amine/OneDrive/Desktop/DS/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1433~1.316\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\amine\\OneDrive\\Desktop\\DS\\out\\build\\x64-Debug\\Vector -IC:\\Users\\amine\\OneDrive\\Desktop\\DS\\Vector -IC:\\Users\\amine\\OneDrive\\Desktop\\DS\\Vector\\src /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -MDd -std:c++17 /FoVector\\CMakeFiles\\Vector.dir\\src\\test.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\amine\\OneDrive\\Desktop\\DS\\Vector\\src\\test.cpp",
+  "file": "C:\\Users\\amine\\OneDrive\\Desktop\\DS\\Vector\\src\\test.cpp"
+},
+{
+  "directory": "C:/Users/amine/OneDrive/Desktop/DS/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1433~1.316\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\amine\\OneDrive\\Desktop\\DS\\out\\build\\x64-Debug\\Vector -IC:\\Users\\amine\\OneDrive\\Desktop\\DS\\Vector -IC:\\Users\\amine\\OneDrive\\Desktop\\DS\\Vector\\src /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -MDd -std:c++17 /FoVector\\CMakeFiles\\DSV.dir\\src\\test.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\amine\\OneDrive\\Desktop\\DS\\Vector\\src\\test.cpp",
+  "file": "C:\\Users\\amine\\OneDrive\\Desktop\\DS\\Vector\\src\\test.cpp"
+},
+{
+  "directory": "C:/Users/amine/OneDrive/Desktop/DS/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1433~1.316\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\amine\\OneDrive\\Desktop\\DS\\out\\build\\x64-Debug\\LinkedList -IC:\\Users\\amine\\OneDrive\\Desktop\\DS\\LinkedList -IC:\\Users\\amine\\OneDrive\\Desktop\\DS\\LinkedList\\src /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -MDd -std:c++17 /FoLinkedList\\CMakeFiles\\LinkedList.dir\\src\\testLL.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\amine\\OneDrive\\Desktop\\DS\\LinkedList\\src\\testLL.cpp",
+  "file": "C:\\Users\\amine\\OneDrive\\Desktop\\DS\\LinkedList\\src\\testLL.cpp"
+},
+{
+  "directory": "C:/Users/amine/OneDrive/Desktop/DS/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1433~1.316\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\amine\\OneDrive\\Desktop\\DS\\out\\build\\x64-Debug\\LinkedList -IC:\\Users\\amine\\OneDrive\\Desktop\\DS\\LinkedList -IC:\\Users\\amine\\OneDrive\\Desktop\\DS\\LinkedList\\src /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -MDd -std:c++17 /FoLinkedList\\CMakeFiles\\DSLL.dir\\src\\testLL.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\amine\\OneDrive\\Desktop\\DS\\LinkedList\\src\\testLL.cpp",
+  "file": "C:\\Users\\amine\\OneDrive\\Desktop\\DS\\LinkedList\\src\\testLL.cpp"
+},
+{
+  "directory": "C:/Users/amine/OneDrive/Desktop/DS/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1433~1.316\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\amine\\OneDrive\\Desktop\\DS\\out\\build\\x64-Debug\\DoubleLinkedList -IC:\\Users\\amine\\OneDrive\\Desktop\\DS\\DoubleLinkedList -IC:\\Users\\amine\\OneDrive\\Desktop\\DS\\DoubleLinkedList\\src /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -MDd -std:c++17 /FoDoubleLinkedList\\CMakeFiles\\DoubleLinkedList.dir\\src\\testDLL.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\amine\\OneDrive\\Desktop\\DS\\DoubleLinkedList\\src\\testDLL.cpp",
+  "file": "C:\\Users\\amine\\OneDrive\\Desktop\\DS\\DoubleLinkedList\\src\\testDLL.cpp"
+},
+{
+  "directory": "C:/Users/amine/OneDrive/Desktop/DS/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1433~1.316\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\amine\\OneDrive\\Desktop\\DS\\out\\build\\x64-Debug\\DoubleLinkedList -IC:\\Users\\amine\\OneDrive\\Desktop\\DS\\DoubleLinkedList -IC:\\Users\\amine\\OneDrive\\Desktop\\DS\\DoubleLinkedList\\src /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -MDd -std:c++17 /FoDoubleLinkedList\\CMakeFiles\\DLL.dir\\src\\testDLL.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\amine\\OneDrive\\Desktop\\DS\\DoubleLinkedList\\src\\testDLL.cpp",
+  "file": "C:\\Users\\amine\\OneDrive\\Desktop\\DS\\DoubleLinkedList\\src\\testDLL.cpp"
+}
+]
